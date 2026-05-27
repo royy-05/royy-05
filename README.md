@@ -22,6 +22,3 @@ I’m a frontend web developer passionate about building clean, responsive, and 
 [![](https://visitcount.itsvg.in/api?id=royy-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=royy-05)
